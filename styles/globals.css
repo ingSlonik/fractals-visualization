@@ -1,0 +1,11 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+}
+
+label {
+  display: block;
+}
+input {
+  display: block;
+}
